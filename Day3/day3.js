@@ -1,0 +1,10 @@
+console.log(4 + 4);
+console.log(16 - 8);
+console.log(4 * 2);
+console.log(16 / 2);
+console.log(10 - 2);
+console.log(64 / 8);
+console.log(5 + 3);
+console.log(8 * 1);
+var favorite_number = 7;
+console.log("my favorite number is ".concat(favorite_number));
